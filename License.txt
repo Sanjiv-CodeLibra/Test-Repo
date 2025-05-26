@@ -1,0 +1,5 @@
+DUAL LICENSING TERMS
+This code is distributed under both a proprietary license and an open source license.  For proprietary-source works, see <<MODULE_URL>> to view terms and obtain a license.  For open-source works, see below.  
+
+OPEN SOURCE LICENSE
+<<OPEN_SOURCE_LICENSE_TEXT>>
