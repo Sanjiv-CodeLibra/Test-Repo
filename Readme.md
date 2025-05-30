@@ -6,4 +6,4 @@ This is a test module for CodeLibra, Inc.  It was created by Sanjiv Laud.  The m
 
 This module is **dual licensed**.  Open-source development is freely permitted under the terms of APGL v3.  Proprietary-source development requires a [paid license through CodeLibra](https://webapp-dev.codelibra.com/CodeLibra/Test-Repo).  
 
-:link: Learn more about CodeLibra and dual licensing [here](www.codelibra.com/?tab=product)
+:link: [Learn more about CodeLibra and dual licensing here.](www.codelibra.com/?tab=product)
